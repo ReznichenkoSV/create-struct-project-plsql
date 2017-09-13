@@ -1,4 +1,4 @@
-# Example of pl\sql project structure
+# Example of pl/sql project structure
 
 Script create a project structure:
 
